@@ -1,7 +1,13 @@
 # Medical-Chatbot
+
 '''bash
-conda create -m mbot python3.10 -y
+conda create -n mbot python=3.10 -y -c conda-forge
 '''
+
 ''' bash 
 conda activate mbot
+'''
+
+''' bash 
+pip install -r requirements.txt
 '''
